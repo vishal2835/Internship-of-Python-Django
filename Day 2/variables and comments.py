@@ -22,3 +22,8 @@ if 88<89:
   also 
   multiline
    comment'''
+x=2
+print("new value of x is",x)
+x=y="vishal"
+print("same values are",y ,x)
+
