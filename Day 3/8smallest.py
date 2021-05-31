@@ -10,6 +10,6 @@ def minimum(a, b):
 		return b
 	
 # Driver code
-a = 2
-b = 4
+a = int(input("Enter a number: ")) 
+b = int(input("Enter a number: ")) 
 print(minimum(a, b))
