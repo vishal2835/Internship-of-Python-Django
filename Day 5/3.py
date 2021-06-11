@@ -11,5 +11,5 @@ class Myclass():
         print('Ans is :', ans)
 
 
-myc = Myclass(50, 79)
+myc = Myclass(88, 79)
 myc.func1()
