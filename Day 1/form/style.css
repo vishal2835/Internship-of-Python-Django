@@ -1,0 +1,21 @@
+h1, body{
+    font-family: 'Lucida Console';
+    text-align: left; 
+    padding-bottom: 5px;
+    border-bottom: 3px Solid ;
+    color: rgb(123, 99, 190);
+    font-weight: 1500;
+   }
+   .button {
+       
+    background-color: #5d6dcc;
+    border: none;
+    color: white;
+    padding: 12px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
